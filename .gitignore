@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+config.json
+data/
+logs/
+outputs/
+*.xlsx
+*.xls
+*.xml
+*.json
+*.zip
+*.log
+chromedriver.exe
